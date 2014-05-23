@@ -10,3 +10,4 @@ Push an existing repository from the command line
 
 git remote add origin git@github.com:Amazonover/MFG.git
 git push -u origin master
+how do you like it ?
